@@ -45,7 +45,7 @@ I'm passionate about data analytics, business intelligence, and data engineering
 - Visual Studio Code
 - Figma
 
-## Currently Exploring
+**Currently Exploring**
 - Apache Airflow
 - dbt
 
