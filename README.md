@@ -27,7 +27,7 @@ I'm passionate about data analytics, business intelligence, and data engineering
 - Jupyter Notebook
 - Power Query
 
-**BI & Data Visualization**
+**BI & Data Visualisation**
 - Power BI
 - Tableau
 
